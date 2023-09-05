@@ -30,6 +30,12 @@ Here you can see my project's workflow, so you can understand used tools and tec
 - Colab (GPU T4)
 - 4bit Quantization using BitsAndBytesConfig
 
+## Resources:
+- Article1: https://medium.com/@murtuza753/using-llama-2-0-faiss-and-langchain-for-question-answering-on-your-own-data-682241488476
+- Article2: https://betterprogramming.pub/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd
+- Dataset: https://www.kaggle.com/datasets/ananthu017/squad-csv-format
+
+
 ## Results and inference: 🍰🍰
 Now let's Notice the results...
 ![Result1](https://github.com/Ahmedsamy96/Customized-Llama2-Chatbot/blob/main/Screenshot%202023-09-04%20104751.png)

@@ -14,12 +14,12 @@ Here you can see my project's workflow, so you can understand used tools and tec
 
 
 ## Tools and technologies used: 🔨✂️
-- Vector db
+- Vector store (FIASS)
 - Langchain
 - Llama 2 - 13b from hugging face
-- Colab (GPU )
-- Quantization using Qlora
+- Colab (GPU T4)
+- 4bit Quantization using BitsAndBytesConfig
 
 ## Results and inference: 🍰🍰
-
+Now let's Notice the results...
 ![Result1](https://github.com/Ahmedsamy96/Customized-Llama2-Chatbot/blob/main/Screenshot%202023-09-04%20104751.png)

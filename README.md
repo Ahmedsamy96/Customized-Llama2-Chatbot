@@ -8,7 +8,7 @@ Yes, I am sure you have thought about this, but implementation may be more diffi
 
 The idea is that I wanted to insert a CSV file into a model using vector store, available on langchain, in order to obtain a model that specializes in a specific business, has deep knowledge of its information, and is able to respond with specific answers, which is something that was a challenge for all models, no matter how many parameters they had or how large their architecture was.  It was difficult to achieve without using a convenient vector db and model quantization method.
 
-## Projects' Steps:
+## Projects' Steps: 🪜🚶‍♂️
 1. **Efficient Model Loading and Configuration:** The notebook defines and loads a pre-trained language model, configuring it for efficient use of GPU memory. It also sets up authentication for accessing the Hugging Face model repository.
 2. **Tokenization and Stop List Preparation:** Tokenization and stop list preparation are crucial for handling text inputs. The notebook utilizes the Hugging Face tokenizer to generate tokens and IDs for special text sequences. It defines a custom stopping criteria for generating responses.
 3. **Text Generation Pipeline:** A text generation pipeline is established using the loaded model and tokenizer. It incorporates parameters such as temperature and repetition penalty to control the randomness and quality of generated responses.
